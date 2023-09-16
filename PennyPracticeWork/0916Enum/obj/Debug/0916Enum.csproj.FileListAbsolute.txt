@@ -1,0 +1,7 @@
+C:\Users\peiyun\Documents\PracticeProject\PennyPracticeWork\0916Enum\bin\Debug\0916Enum.exe.config
+C:\Users\peiyun\Documents\PracticeProject\PennyPracticeWork\0916Enum\bin\Debug\0916Enum.exe
+C:\Users\peiyun\Documents\PracticeProject\PennyPracticeWork\0916Enum\bin\Debug\0916Enum.pdb
+C:\Users\peiyun\Documents\PracticeProject\PennyPracticeWork\0916Enum\obj\Debug\0916Enum.csproj.AssemblyReference.cache
+C:\Users\peiyun\Documents\PracticeProject\PennyPracticeWork\0916Enum\obj\Debug\0916Enum.csproj.CoreCompileInputs.cache
+C:\Users\peiyun\Documents\PracticeProject\PennyPracticeWork\0916Enum\obj\Debug\0916Enum.exe
+C:\Users\peiyun\Documents\PracticeProject\PennyPracticeWork\0916Enum\obj\Debug\0916Enum.pdb
