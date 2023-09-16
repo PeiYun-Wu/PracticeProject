@@ -1,0 +1,7 @@
+C:\Users\peiyun\Documents\PennyPracticeWork\PennyPracticeWork\obj\Debug\PennyPracticeWork.csproj.AssemblyReference.cache
+C:\Users\peiyun\Documents\PennyPracticeWork\PennyPracticeWork\obj\Debug\PennyPracticeWork.csproj.CoreCompileInputs.cache
+C:\Users\peiyun\Documents\PennyPracticeWork\PennyPracticeWork\bin\Debug\PennyPracticeWork.exe.config
+C:\Users\peiyun\Documents\PennyPracticeWork\PennyPracticeWork\bin\Debug\PennyPracticeWork.exe
+C:\Users\peiyun\Documents\PennyPracticeWork\PennyPracticeWork\bin\Debug\PennyPracticeWork.pdb
+C:\Users\peiyun\Documents\PennyPracticeWork\PennyPracticeWork\obj\Debug\PennyPracticeWork.exe
+C:\Users\peiyun\Documents\PennyPracticeWork\PennyPracticeWork\obj\Debug\PennyPracticeWork.pdb
