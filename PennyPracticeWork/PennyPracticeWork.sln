@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.33130.400
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0904InterFace", "PennyPracticeWork\0904InterFace.csproj", "{1812FFB6-85DC-4370-A3D5-72898DBA8FDA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0916Json", "0916Json\0916Json.csproj", "{D25376FE-5947-4A25-A45A-44ACBC955D5E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{1812FFB6-85DC-4370-A3D5-72898DBA8FDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1812FFB6-85DC-4370-A3D5-72898DBA8FDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1812FFB6-85DC-4370-A3D5-72898DBA8FDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D25376FE-5947-4A25-A45A-44ACBC955D5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D25376FE-5947-4A25-A45A-44ACBC955D5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D25376FE-5947-4A25-A45A-44ACBC955D5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D25376FE-5947-4A25-A45A-44ACBC955D5E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

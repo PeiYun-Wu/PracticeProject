@@ -1,0 +1,10 @@
+C:\Users\peiyun\Documents\PracticeProject\PennyPracticeWork\0916Json\bin\Debug\0916Json.exe.config
+C:\Users\peiyun\Documents\PracticeProject\PennyPracticeWork\0916Json\bin\Debug\0916Json.exe
+C:\Users\peiyun\Documents\PracticeProject\PennyPracticeWork\0916Json\bin\Debug\0916Json.pdb
+C:\Users\peiyun\Documents\PracticeProject\PennyPracticeWork\0916Json\bin\Debug\Newtonsoft.Json.dll
+C:\Users\peiyun\Documents\PracticeProject\PennyPracticeWork\0916Json\bin\Debug\Newtonsoft.Json.xml
+C:\Users\peiyun\Documents\PracticeProject\PennyPracticeWork\0916Json\obj\Debug\0916Json.csproj.AssemblyReference.cache
+C:\Users\peiyun\Documents\PracticeProject\PennyPracticeWork\0916Json\obj\Debug\0916Json.csproj.CoreCompileInputs.cache
+C:\Users\peiyun\Documents\PracticeProject\PennyPracticeWork\0916Json\obj\Debug\0916Json.csproj.CopyComplete
+C:\Users\peiyun\Documents\PracticeProject\PennyPracticeWork\0916Json\obj\Debug\0916Json.exe
+C:\Users\peiyun\Documents\PracticeProject\PennyPracticeWork\0916Json\obj\Debug\0916Json.pdb
